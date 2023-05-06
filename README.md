@@ -8,9 +8,8 @@ It is Berkay Takindi<br><br>I'm a passionate software developer who loves the bu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=berkaytakindi&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytakindi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkaytakindi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@berkayt22) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=berkaytakindi&icon=2&color=8)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkaytakindi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@berkayt22) 
