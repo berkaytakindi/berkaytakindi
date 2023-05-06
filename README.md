@@ -1,4 +1,4 @@
-# 💫 Hi there:
+#  Hi there:
 It is Berkay Takindi<br><br>I'm a passionate software developer who loves the build software to solve other people's problem. Especially I like working in the field of web technologies/development.
 
 # 💻 Tech Stack:
