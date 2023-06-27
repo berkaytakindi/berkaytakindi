@@ -1,4 +1,5 @@
 Hey there! I'm Berkay TAKINDI
+
 Frontend Developer | UI/UX Enthusiast
 
 
