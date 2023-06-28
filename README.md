@@ -5,12 +5,6 @@ Frontend Developer | UI/UX Enthusiast
 
 I'm a passionate Frontend Developer with a strong background in creating user-friendly and visually appealing web applications. I have developed a deep understanding of modern web development frameworks, tools, and best practices.
 
-🔹 My Tech Stack:
-
-Proficient in HTML5, CSS3, JavaScript, and jQuery.
-Expertise in modern JavaScript framework such as ReactJS 
-Experience with responsive web design and cross-browser compatibility.
-Knowledge of CSS preprocessors like SASS and LESS.
 
 🔹 UI/UX Design:
 
