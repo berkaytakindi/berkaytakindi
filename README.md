@@ -3,7 +3,7 @@
 <h3>Frontend Developer | UI/UX Enthusiast</h3>
 
 
-  I'm a passionate Frontend Developer with a strong background in creating user-friendly and visually appealing web applications. I have developed a deep understanding of modern web development frameworks, tools, and best practices.
+  I'm a passionate Frontend Developer with a strong background in creating user-friendly and visually appealing web applications. I have developed a deep understanding of modern web development frameworks, tools, and practices.
 
   I am passionate about creating innovative and seamless user experiences that enhance usability and drive user engagement. I am always eager to learn and stay up-to-date with the latest frontend technologies and design trends. It's all about staying sharp and keeping things fresh!
 
