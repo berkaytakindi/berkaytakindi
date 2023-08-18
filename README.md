@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Berkay TAKINDI</h2>
+<h2>Hey there! I'm Berkay TAKINDI.</h2>
 
 <h3>Frontend Developer | UI/UX Enthusiast</h3>
 
